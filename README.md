@@ -1,7 +1,5 @@
 ### Hi there 👋 Niubility！
 
-### 浏览器主页：https://23so.net/view
-
 ### Go Web框架：https://github.com/fyonecon/ginvel3
 
 ###
