@@ -2,7 +2,7 @@
 
 ### Go Web框架：https://github.com/fyonecon/ginvel3
 
-### PureHome ：https://github.com/fyonecon/PureWork
+### PureHome（macOS11+、Win10+）：https://github.com/fyonecon/PureWork
 
 ###
 
