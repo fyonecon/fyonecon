@@ -1,8 +1,12 @@
-### Hi there 👋 Niubility！
+### Hi 👋 👋 👋 
 
-### Ginvel3（Go Web框架）：https://github.com/fyonecon/ginvel3
+### 1️⃣Ginvel3（Go Web框架）：
 
-### PureHome（替代浏览器主页 && 局域网跨设备文件共享。支持macOS11+、Win10+。）：https://github.com/fyonecon/PureWork
+https://github.com/fyonecon/ginvel3
+
+### 2️⃣PureHome（替代浏览器主页 && 局域网跨设备文件共享）：
+
+https://github.com/fyonecon/PureWork
 
 ###
 
