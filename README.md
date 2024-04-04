@@ -1,12 +1,13 @@
 ### Hi 👋 👋 👋 
 
-### 1️⃣Ginvel3（Go Web框架）：
+### 1️⃣ Ginvel3（Go Web框架）：
 
 https://github.com/fyonecon/ginvel3
 
-### 2️⃣PureHome（替代浏览器主页 && 局域网跨设备文件共享）：
-
+### 2️⃣ PureHome（替代浏览器主页 && 局域网跨设备文件共享）：
 https://github.com/fyonecon/PureWork
+
+http://purehome.cc
 
 ###
 
