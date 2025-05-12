@@ -5,7 +5,7 @@
 https://github.com/fyonecon/ginvel3
 
 ### 2️⃣ PureHome（替代浏览器主页 && 局域网跨设备文件共享）：
-https://fyonecon.github.io/purehome
+https://fyonecon.github.io/purehome.html
 
 ###
 
