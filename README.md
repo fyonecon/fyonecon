@@ -12,7 +12,7 @@ https://fyonecon.github.io/purehome.html
 
 项目或下载：
 
-https://github.com/fyonecon
+https://github.com/fyonecon/purehome
 
 
 ###
