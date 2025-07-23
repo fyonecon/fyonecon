@@ -4,7 +4,7 @@
 
 https://github.com/fyonecon/ginvel3
 
-### 2️⃣ PureHome（替代浏览器主页 && 局域网跨设备文件共享）：
+### 2️⃣ PureHome（局域网分享文件和笔记（Share files and notes in your LAN network.））：
 
 宣传或介绍：
 
