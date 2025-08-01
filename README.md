@@ -6,12 +6,6 @@ https://github.com/fyonecon/ginvel3
 
 ### 2️⃣ PureHome（局域网分享文件和笔记（Share files and notes in your LAN network.））：
 
-宣传或介绍：
-
-https://fyonecon.github.io/purehome.html
-
-项目或下载：
-
 https://github.com/fyonecon/purehome
 
 
