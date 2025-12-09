@@ -8,10 +8,13 @@ https://github.com/fyonecon/ginvel3
 
 https://github.com/fyonecon/purehome
 
-### 3️⃣ Ginthon（Python“桌面视窗+Web”融合框架）：
+### 3️⃣ Ginthon（Python“桌面视窗+Web”基座框架）：
 
 https://github.com/fyonecon/Ginthon
 
+### 4️⃣ Waigo（Golang“桌面视窗+Web”基座框架）：
+
+https://github.com/fyonecon/Waigo
 
 ###
 
