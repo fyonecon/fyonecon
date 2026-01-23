@@ -4,9 +4,12 @@
 
 https://github.com/fyonecon/ginvel3
 
+<!--
 ### 2️⃣ PureHome（局域网分享文件和笔记（Share files and notes in your LAN network.）桌面端软件）：
 
 https://github.com/fyonecon/purehome
+
+-->
 
 ### 3️⃣ Ginthon（Python+Web的“桌面视窗+稳定服务”基座框架）：
 
