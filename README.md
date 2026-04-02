@@ -11,6 +11,8 @@ https://github.com/fyonecon/purehome
 
 -->
 
+<!--
+
 ### 2️⃣ PureHome （浏览器主页，PWA应用，不收集任何隐私）
 
 https://fyonecon.github.io/#route=home
@@ -25,7 +27,9 @@ https://fyonecon.github.io/#route=home
 
 https://github.com/fyonecon/Ginthon
 
-### 4️⃣ Waigo（Golang+Web的“桌面视窗+稳定服务”基座框架）：
+-->
+
+### 2️⃣ Waigo（Golang+Web的“桌面视窗+稳定服务”基座框架）：
 
 https://github.com/fyonecon/Waigo
 
