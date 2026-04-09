@@ -23,7 +23,7 @@ https://github.com/fyonecon/Ginthon
 
 https://github.com/fyonecon/Waigo
 
-### 3️⃣ PureHome （浏览器主页，PWA应用，不收集任何隐私，Svelte书写）
+### 3️⃣ PureHome （浏览器主页，不收集任何隐私，Svelte编写）
 
 https://fyonecon.github.io
 
