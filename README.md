@@ -19,7 +19,7 @@ https://github.com/fyonecon/Ginthon
 
 -->
 
-### 2️⃣ Waigo（Golang+Web的“桌面视窗+稳定服务”基座框架）：
+### 2️⃣ Waigo（用“Golang+Web”写的“视图窗口+稳定服务”的桌面端（Win、Mac、Ubuntu）多功能程序基建)：
 
 https://github.com/fyonecon/Waigo
 
