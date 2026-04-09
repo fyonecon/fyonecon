@@ -1,6 +1,6 @@
 ### Hi 👋 👋 👋 
 
-### 1️⃣ Ginvel3（Go“Web”框架）：
+### 1️⃣ Ginvel3（Go“Web”微服务框架）：
 
 https://github.com/fyonecon/ginvel3
 
