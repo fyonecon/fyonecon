@@ -9,7 +9,7 @@ https://github.com/fyonecon/ginvel3
 
 ### 2️⃣ Ginthon（Python+Web写的“视图窗口+稳定服务”的桌面端（Win、Mac、Linux）多功能程序基建)：
 
-https://github.com/fyonecon/Ginthon
+https://github.com/fyonecon/Ginthon （Open Code）
 
 
 ### 3️⃣ PureHome （替代浏览器主页，不收集任何隐私，Svelte编写）
