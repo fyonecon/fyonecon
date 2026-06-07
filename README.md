@@ -16,19 +16,15 @@ https://github.com/fyonecon/Ginthon （Open Code）
 
 https://fyonecon.github.io/purehome
 
-口令：
+口令：@bing 自定义浏览器搜索引擎为Bing ； @info 查看浏览器参数 ；
 
-@bing 自定义浏览器搜索引擎为Bing
-
-@info 查看浏览器参数
-
-### 4️⃣ 科学计算器 （PWA 应用）：
-
-https://fyonecon.github.io/calculator
-
-### 5️⃣ tabPureHome（Edge/Chrome/Firefox浏览器插件：自定义浏览器的新标签网址）：
+### 4️⃣ tabPureHome（Edge/Chrome/Firefox浏览器插件：自定义浏览器的新标签网址）：
 
 https://github.com/fyonecon/tabPureHome
+
+### 5️⃣ 科学计算器 （PWA 应用）：
+
+https://fyonecon.github.io/calculator
 
 ### 6️⃣ Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化） ：
 
