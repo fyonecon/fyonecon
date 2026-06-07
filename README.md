@@ -12,7 +12,7 @@ https://github.com/fyonecon/ginvel3
 https://github.com/fyonecon/Ginthon （Open Code）
 
 
-### 3️⃣ PureHome （替代浏览器主页，不收集任何隐私，Svelte编写）
+### 3️⃣ PureHome （替代浏览器主页，不收集任何隐私，Svelte编写）：
 
 https://fyonecon.github.io/purehome
 
@@ -22,9 +22,13 @@ https://fyonecon.github.io/purehome
 
 @info 查看浏览器参数
 
-### 4️⃣ 科学计算器 （PWA 应用）
+### 4️⃣ 科学计算器 （PWA 应用）：
 
 https://fyonecon.github.io/calculator
+
+### 5️⃣ Edge/Chrome/Firefox浏览器插件：自定义浏览器的新标签网址。
+
+https://github.com/fyonecon/tabPureHome
 
 ---
 
