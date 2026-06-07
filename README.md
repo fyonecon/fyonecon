@@ -26,9 +26,17 @@ https://fyonecon.github.io/purehome
 
 https://fyonecon.github.io/calculator
 
-### 5️⃣ Edge/Chrome/Firefox浏览器插件：自定义浏览器的新标签网址。
+### 5️⃣ tabPureHome（Edge/Chrome/Firefox浏览器插件：自定义浏览器的新标签网址）：
 
 https://github.com/fyonecon/tabPureHome
+
+### 6️⃣ Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化） ：
+
+https://github.com/fyonecon/Winutiful
+
+### 7️⃣ Macutiful（美化Mac：让Mac的操作更靠近Win，让Mac的使用更顺手） ：
+
+https://github.com/fyonecon/Macutiful
 
 ---
 
