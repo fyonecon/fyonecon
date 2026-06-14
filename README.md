@@ -18,7 +18,7 @@ https://fyonecon.github.io/purehome
 
 口令：@bing 自定义浏览器搜索引擎为Bing ； @info 查看浏览器参数 ；
 
-### 4️⃣ tabPureHome（Edge/Firefox浏览器插件：自定义浏览器的新标签网址和打开链接的方式）：
+### 4️⃣ tabPureHome（Edge/Firefox浏览器插件：自定义浏览器的新标签网址和在网页中打开链接的方式）：
 
 https://github.com/fyonecon/tabPureHome
 
