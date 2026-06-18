@@ -20,13 +20,9 @@ https://fyonecon.github.io/purehome
 
 https://fyonecon.github.io/calculator
 
-### 4️⃣.1 tabPureHome（Edge/Firefox浏览器插件：自定义浏览器的新标签网址和在网页中打开链接的方式）：
+### 4️⃣ tabPureHome（Edge/Firefox浏览器插件：自定义浏览器的新标签网址和在网页中打开链接的方式）：
 
 https://github.com/fyonecon/tabPureHome
-
-### 4️⃣.2 FingerprintBlocker（Edge/Firefox浏览器插件：拦截浏览器指纹。）：
-
-https://github.com/fyonecon/FingerprintBlocker
 
 ### 5️⃣.1 Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化） ：
 
