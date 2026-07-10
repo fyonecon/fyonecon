@@ -10,29 +10,11 @@ https://github.com/fyonecon/ginvel3
 
 https://github.com/fyonecon/Ginthon （Open Code）
 
-### 3️⃣.1 PureHome （替代浏览器主页，不收集任何隐私，Svelte编写，PWA 应用）：
-
-https://fyonecon.github.io/purehome
-
-口令：@bing 自定义浏览器搜索引擎为Bing ； @info 查看浏览器参数 ；
-
-### 3️⃣.2 科学计算器 （PWA 应用）：
-
-https://fyonecon.github.io/calculator
-
-### 4️⃣.1 FingerprintBlocker（Edge/Firefox浏览器插件：拦截浏览器指纹）：
-
-https://github.com/fyonecon/FingerprintBlocker
-
-### 4️⃣.2 tabPureHome（Edge/Firefox浏览器插件：自定义浏览器的新标签网址和在网页中打开链接的方式）：
+### 3️⃣ tabPureHome（Edge/Firefox浏览器插件：自定义浏览器的新标签网址和在网页中打开链接的方式）：
 
 https://github.com/fyonecon/tabPureHome
 
-### 5️⃣.1 Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化） ：
-
-https://github.com/fyonecon/Winutiful
-
-### 5️⃣.2 Macutiful（美化Mac：让Mac的操作更靠近Win，让Mac的使用更顺手） ：
+### 4️⃣ Macutiful（美化Mac：让Mac的操作更靠近Win，让Mac的使用更顺手） ：
 
 https://github.com/fyonecon/Macutiful
 
