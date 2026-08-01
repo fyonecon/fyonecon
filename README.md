@@ -14,13 +14,11 @@ https://github.com/fyonecon/Ginthon （Open Code）
 
 https://github.com/fyonecon/tabPureHome
 
-### 4️⃣ Macutiful（美化Mac：让Mac的操作更靠近Win，让Mac的使用更顺手） ：
+### 4️⃣ 美化MacOS14+/Win11+系统：
 
-https://github.com/fyonecon/Macutiful
+- Macutiful（美化Mac：让Mac的操作更靠近Win，让Mac的使用更顺手） ：https://github.com/fyonecon/Macutiful
 
-### Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化）：
-
-https://github.com/fyonecon/Winutiful
+- Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化）：https://github.com/fyonecon/Winutiful
 
 ---
 
