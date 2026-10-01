@@ -14,11 +14,13 @@ https://github.com/fyonecon/Ginthon （Open Code）
 
 https://github.com/fyonecon/tabPureHome
 
-### 4️⃣ 美化MacOS14+/Win11+系统：
+### 4️⃣ 美化MacOS14+/美化Win11+系统/净化小米澎湃系统：
 
 - Macutiful（美化Mac：让Mac的操作更靠近Win，让Mac的使用更顺手） ：https://github.com/fyonecon/Macutiful
 
 - Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化）：https://github.com/fyonecon/Winutiful
+
+- clear_hyperos（净化小米澎湃系统：删除各种广告，删除底层反诈和多余App，使用起来更接近原生Android） ：https://github.com/fyonecon/clear_hyperos
 
 ---
 
