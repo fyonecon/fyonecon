@@ -20,7 +20,7 @@ https://github.com/fyonecon/tabPureHome
 
 - Winutiful（美化Win11：让Win的功能更靠近Mac，让Win的操作更简化）：https://github.com/fyonecon/Winutiful
 
-- clear_hyperos（净化小米澎湃系统：删除各种广告，删除底层反诈和多余App，使用起来更接近原生Android） ：https://github.com/fyonecon/clear_hyperos
+- clean_hyperos（净化小米澎湃系统：删除各种广告，删除底层反诈，使用更接近原生Android）：https://github.com/fyonecon/clean_hyperos
 
 ---
 
